@@ -8,7 +8,7 @@ I am currently a Data Science Intern for the New York Mets, where I have been wo
 
 Many of the projects that I have completed in this program are private. If you would like to know more about a project listed below, feel free to contact with me on [LinkedIn](https://www.linkedin.com/in/brendanwjenkins/) and I will be happy to walk you through the project.
 
-Before attending graduate school, I played professional baseball for two season and attented the University of San Francisco where I earned my Bachelor of Science in Mathematics while being the closer on the baseball team.
+Before attending graduate school, I played two season of professional baseball and attented the University of San Francisco where I earned my Bachelor of Science in Mathematics while serving as the closing pitcher for the baseball team.
 
 ## Machine Learning Projects
 
