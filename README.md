@@ -2,9 +2,9 @@
 
 Hello I am Brendan Jenkins | LinkedIn: [@brendanwjenkins](https://www.linkedin.com/in/brendanwjenkins/)
 
-I am currently a graduate student in the Master of Science in Data Science program at the University of San Francisco, with an expected graduation date of July 2022.
+I am currently a Data Engineer for a software consultant company in Boise, Idaho. Recently, I graduated from the Master of Science in Data Science program at the University of San Francisco.
 
-I am currently a Data Science Intern for the New York Mets, where I have been working on improving their defensive positioning model.
+Formerly I was a Data Science Intern for the New York Mets, where I was working on improving their defensive positioning model.
 
 Many of the projects that I have completed in this program are private. If you would like to know more about a project listed below, feel free to contact with me on [LinkedIn](https://www.linkedin.com/in/brendanwjenkins/) and I will be happy to walk you through the project.
 
